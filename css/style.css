@@ -6,7 +6,7 @@
 }
 body{
     width: 100%;
-    background-image: url(images/back.webp);
+    background-image: url(../images/back.webp);
     background-position: fixed;
     background-size: cover;
     background-repeat: no-repeat;
